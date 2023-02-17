@@ -1,2 +1,2 @@
-# DontAskMeHowItsWorking
+# Mamdani algorithm
 Some idiotic stuff
